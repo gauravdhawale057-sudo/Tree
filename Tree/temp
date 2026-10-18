@@ -1,0 +1,6 @@
+Tree Node Depth Calculation in Binary Search Tree (BST)
+1. Problem Statement
+Write a C++ program to construct a Binary Search Tree (BST) by inserting a set of integer values. The program should calculate
+and display the depth of every node in the tree. It should also accept a specific node value from the user, display the path 
+from the root to that node, and calculate its depth. If the specified node is not present in the tree, the program should 
+display an appropriate message.
